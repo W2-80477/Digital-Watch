@@ -1,0 +1,21 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    display: flex;
+    justify-content:center;
+    align-self: center;
+    background-color: #e1c876;
+    font-family: 'digital', sans-serif;
+}
+.container{
+    width: 300px;
+    border: 12px solid #361d5a;
+    margin: 20%;
+    border-radius:50px;
+    text-align: center;
+    background-color: #51f3eb;
+}
+h1{
+    font-size: 4.rem;
+    color: #811574;
+}
